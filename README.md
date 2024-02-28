@@ -4,7 +4,7 @@
 ![Canvas API](https://img.shields.io/badge/Canvas-API-blue.svg)
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 
-![Screenshot from 2024-02-27 18-27-12](https://github.com/s5y-ux/CanvasAutoGrader/assets/59636597/5a9bc6c2-3028-48a3-a0b7-06aabd24a59c)
+![Screenshot from 2024-02-27 18-27-12](https://github.com/s5y-ux/CanvasAutoGrader/assets/59636597/ce7262fd-5f52-4d7c-8315-07785626ffac)
 
 
 Welcome to CanvasAutoGrader, an innovative tool designed to automate the grading process for assignments submitted through Canvas LMS (Learning Management System). By leveraging unit testing frameworks alongside the Canvas API, CanvasAutoGrader streamlines the assessment of student submissions, ensuring accurate, fair, and timely grading.
