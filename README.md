@@ -7,6 +7,9 @@
 ![Screenshot from 2024-02-27 18-27-12](https://github.com/s5y-ux/CanvasAutoGrader/assets/59636597/ce7262fd-5f52-4d7c-8315-07785626ffac)
 
 
+##Video Demo
+https://www.youtube.com/watch?v=8viAI7NGBGY
+
 Welcome to CanvasAutoGrader, an innovative tool designed to automate the grading process for assignments submitted through Canvas LMS (Learning Management System). By leveraging unit testing frameworks alongside the Canvas API, CanvasAutoGrader streamlines the assessment of student submissions, ensuring accurate, fair, and timely grading.
 
 ## Features
