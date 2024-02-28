@@ -1,5 +1,9 @@
 # CanvasAutoGrader
 
+![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
+![Canvas API](https://img.shields.io/badge/Canvas-API-blue.svg)
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+
 Welcome to CanvasAutoGrader, an innovative tool designed to automate the grading process for assignments submitted through Canvas LMS (Learning Management System). By leveraging unit testing frameworks alongside the Canvas API, CanvasAutoGrader streamlines the assessment of student submissions, ensuring accurate, fair, and timely grading.
 
 ## Features
